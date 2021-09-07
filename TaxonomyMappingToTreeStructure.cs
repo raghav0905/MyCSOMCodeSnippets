@@ -2,7 +2,7 @@
 * This is an example to fetch multiple level taxonomy from metadata in a tree structure in below entity structure
 */
 
-/* entity 
+
 using System.Collections.Generic;
 
 namespace DataEntities
@@ -17,7 +17,7 @@ namespace DataEntities
     }
 }
 
-*/
+
 
 using System;
 using System.Collections.Generic;
