@@ -24,7 +24,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.SharePoint.Client;
-using Microsoft.Practices.Unity;
 using Microsoft.SharePoint.Client.Taxonomy;
 
 namespace TaxonomyWork
